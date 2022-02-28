@@ -1,0 +1,10 @@
+body {
+    background: rgb(157, 157, 161);
+    color: rgb(0, 0, 0);
+    font: normal 16pt Arial;
+}
+
+input {
+    width: auto;
+    height: auto;
+}

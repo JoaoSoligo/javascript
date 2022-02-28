@@ -1,0 +1,9 @@
+div {
+    font: normal 20pt Arial;
+    background: rgb(66, 224, 66);
+    color: white;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+}
